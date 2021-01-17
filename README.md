@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align="center">
+	<img src="./200.gif" width="100%" />
+</div>
 <!--
 **lummerjs/lummerjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
