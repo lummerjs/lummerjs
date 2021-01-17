@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sing like no one is listening 🎶
+
+### Dance like nobody's watching 💃
 
 <div align="center">
 	<img src="./200.gif" width="100%" />
